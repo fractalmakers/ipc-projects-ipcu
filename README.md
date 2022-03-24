@@ -6,3 +6,4 @@
 
 ![Hole No  2 - Pink Dogwood ](https://user-images.githubusercontent.com/84731828/159927512-90612a4a-b8f4-4458-95db-993368382072.png)
 
+![Hole No  3 - Flowering Peach](https://user-images.githubusercontent.com/84731828/159939403-6ed8ca2e-4ecb-4f99-b50d-a0261ce45f25.png)
