@@ -28,5 +28,6 @@
 
 ![Hole No  12 - Golden Bell](https://user-images.githubusercontent.com/84731828/159980285-8dc7953f-5536-4058-903b-2cca91b8dfa4.png)
 
+![Hole No  13 - Azalea](https://user-images.githubusercontent.com/84731828/159980958-bc0691b3-cb0e-4ca7-b281-1943db9cd1da.png)
 
 
