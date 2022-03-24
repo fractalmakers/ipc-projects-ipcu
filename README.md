@@ -33,4 +33,5 @@
 ![Hole No  14 - Chinese Fir](https://user-images.githubusercontent.com/84731828/159982930-79248828-c020-440f-9f32-a625217b0bfe.png)
 
 
+![Hole No  15 - Fire Thorn](https://user-images.githubusercontent.com/84731828/159983720-94560f0f-2082-47c1-8e26-e81fa894b8c5.png)
 
