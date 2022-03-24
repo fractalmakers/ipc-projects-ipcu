@@ -39,3 +39,5 @@
 
 ![Hole No  17 - Nandina](https://user-images.githubusercontent.com/84731828/159985626-b54dfaa9-2887-4032-9648-138ffa14d7e1.png)
 
+![Hole No  18 - Holly](https://user-images.githubusercontent.com/84731828/159986283-dbc3c912-ec3c-4f6f-a49a-39809c84089e.png)
+
