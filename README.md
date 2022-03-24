@@ -17,3 +17,5 @@
 ![Hole No  6 - Juniper](https://user-images.githubusercontent.com/84731828/159975769-28e9fadf-298d-4d48-b119-87536beb3f09.png)
 
 ![Hole No  7 - Pampas](https://user-images.githubusercontent.com/84731828/159976621-2f9a6903-a840-400c-8694-3b2f2bd5c40a.png)
+
+![Hole No  8 - Yellow Jasmine](https://user-images.githubusercontent.com/84731828/159977165-12e5d49f-f8cb-48e2-8b97-843c2240676c.png)
