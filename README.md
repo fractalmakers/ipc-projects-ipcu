@@ -10,3 +10,6 @@
 
 
 ![Hole No  4 - Flowering Crabapple](https://user-images.githubusercontent.com/84731828/159941572-5c748e83-44b8-4857-9080-d03a5c10a2fc.png)
+
+
+![Hole No  5 - Magnolia](https://user-images.githubusercontent.com/84731828/159972986-1af70042-e865-4eff-bf8b-3e41474b6a57.png)
