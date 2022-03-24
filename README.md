@@ -15,3 +15,5 @@
 ![Hole No  5 - Magnolia](https://user-images.githubusercontent.com/84731828/159972986-1af70042-e865-4eff-bf8b-3e41474b6a57.png)
 
 ![Hole No  6 - Juniper](https://user-images.githubusercontent.com/84731828/159975769-28e9fadf-298d-4d48-b119-87536beb3f09.png)
+
+![Hole No  7 - Pampas](https://user-images.githubusercontent.com/84731828/159976621-2f9a6903-a840-400c-8694-3b2f2bd5c40a.png)
