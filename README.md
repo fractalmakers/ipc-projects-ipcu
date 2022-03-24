@@ -30,4 +30,7 @@
 
 ![Hole No  13 - Azalea](https://user-images.githubusercontent.com/84731828/159980958-bc0691b3-cb0e-4ca7-b281-1943db9cd1da.png)
 
+![Hole No  14 - Chinese Fir](https://user-images.githubusercontent.com/84731828/159982930-79248828-c020-440f-9f32-a625217b0bfe.png)
+
+
 
