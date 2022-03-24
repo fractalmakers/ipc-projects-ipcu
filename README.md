@@ -24,3 +24,6 @@
 
 ![Hole No  10 - Camellia](https://user-images.githubusercontent.com/84731828/159978164-a8ed3884-9912-4d77-aba5-a10878707f3d.png)
 
+![Hole No  11 - White Dogwood](https://user-images.githubusercontent.com/84731828/159979638-a4069636-9f21-412b-8274-f7b048f3d43e.png)
+
+
