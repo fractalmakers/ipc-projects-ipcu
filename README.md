@@ -26,4 +26,7 @@
 
 ![Hole No  11 - White Dogwood](https://user-images.githubusercontent.com/84731828/159979638-a4069636-9f21-412b-8274-f7b048f3d43e.png)
 
+![Hole No  12 - Golden Bell](https://user-images.githubusercontent.com/84731828/159980285-8dc7953f-5536-4058-903b-2cca91b8dfa4.png)
+
+
 
