@@ -35,3 +35,5 @@
 
 ![Hole No  15 - Fire Thorn](https://user-images.githubusercontent.com/84731828/159983720-94560f0f-2082-47c1-8e26-e81fa894b8c5.png)
 
+![Hole No  16 - Redbud](https://user-images.githubusercontent.com/84731828/159984572-0fdb44c2-7647-478e-b32b-b3beab396149.png)
+
