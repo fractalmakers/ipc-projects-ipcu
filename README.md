@@ -1,43 +1,17 @@
 # ipc-projects-ipcu
-
-![Hole No  1 - Tea Olive](https://user-images.githubusercontent.com/84731828/159924196-29cc42db-59d1-40a8-a928-4524b2ed1cb6.png)
-
-
-
-![Hole No  2 - Pink Dogwood ](https://user-images.githubusercontent.com/84731828/159927512-90612a4a-b8f4-4458-95db-993368382072.png)
-
-![Hole No  3 - Flowering Peach](https://user-images.githubusercontent.com/84731828/159939403-6ed8ca2e-4ecb-4f99-b50d-a0261ce45f25.png)
-
-
-![Hole No  4 - Flowering Crabapple](https://user-images.githubusercontent.com/84731828/159941572-5c748e83-44b8-4857-9080-d03a5c10a2fc.png)
-
-
-![Hole No  5 - Magnolia](https://user-images.githubusercontent.com/84731828/159972986-1af70042-e865-4eff-bf8b-3e41474b6a57.png)
-
-![Hole No  6 - Juniper](https://user-images.githubusercontent.com/84731828/159975769-28e9fadf-298d-4d48-b119-87536beb3f09.png)
-
-![Hole No  7 - Pampas](https://user-images.githubusercontent.com/84731828/159976621-2f9a6903-a840-400c-8694-3b2f2bd5c40a.png)
-
-![Hole No  8 - Yellow Jasmine](https://user-images.githubusercontent.com/84731828/159977165-12e5d49f-f8cb-48e2-8b97-843c2240676c.png)
-
-![Screen Shot 2022-03-24 at 14 40 19](https://user-images.githubusercontent.com/84731828/159977547-7fc9e568-688b-4a88-8e2e-a93081159f98.png)
-
-![Hole No  10 - Camellia](https://user-images.githubusercontent.com/84731828/159978164-a8ed3884-9912-4d77-aba5-a10878707f3d.png)
-
-![Hole No  11 - White Dogwood](https://user-images.githubusercontent.com/84731828/159979638-a4069636-9f21-412b-8274-f7b048f3d43e.png)
-
-![Hole No  12 - Golden Bell](https://user-images.githubusercontent.com/84731828/159980285-8dc7953f-5536-4058-903b-2cca91b8dfa4.png)
-
-![Hole No  13 - Azalea](https://user-images.githubusercontent.com/84731828/159980958-bc0691b3-cb0e-4ca7-b281-1943db9cd1da.png)
-
-![Hole No  14 - Chinese Fir](https://user-images.githubusercontent.com/84731828/159982930-79248828-c020-440f-9f32-a625217b0bfe.png)
-
-
-![Hole No  15 - Fire Thorn](https://user-images.githubusercontent.com/84731828/159983720-94560f0f-2082-47c1-8e26-e81fa894b8c5.png)
-
-![Hole No  16 - Redbud](https://user-images.githubusercontent.com/84731828/159984572-0fdb44c2-7647-478e-b32b-b3beab396149.png)
-
-![Hole No  17 - Nandina](https://user-images.githubusercontent.com/84731828/159985626-b54dfaa9-2887-4032-9648-138ffa14d7e1.png)
-
-![Hole No  18 - Holly](https://user-images.githubusercontent.com/84731828/159986283-dbc3c912-ec3c-4f6f-a49a-39809c84089e.png)
-
+![hole-map-1](https://user-images.githubusercontent.com/84731828/160420358-640fdc9e-afdd-44ae-bbca-3ec2d91c0b99.jpeg)
+![hole-map-2](https://user-images.githubusercontent.com/84731828/160420365-ea5cf48a-1fd3-42e1-9ad0-a5d96f3a4907.jpeg)
+![hole-map-3](https://user-images.githubusercontent.com/84731828/160420367-d4134944-7ae9-4556-9026-8c2364f388b0.jpeg)
+![hole-map-4](https://user-images.githubusercontent.com/84731828/160420372-c962711f-9221-4672-a3c3-bc0d3a8be7b0.jpeg)
+![hole-map-5](https://user-images.githubusercontent.com/84731828/160420379-23853971-d824-4fb4-bdc7-bf181c0225e7.jpeg)
+![hole-map-8](https://user-images.githubusercontent.com/84731828/160420383-e379af89-d439-434d-82ea-886d5029ca53.jpeg)
+![hole-map-9](https://user-images.githubusercontent.com/84731828/160420389-9726e2ab-78d5-48af-983c-4c05e8e742a2.jpeg)
+![hole-map-10](https://user-images.githubusercontent.com/84731828/160420392-ff95af36-99b6-4e40-817e-efcadf2ef7b1.jpeg)
+![hole-map-11](https://user-images.githubusercontent.com/84731828/160420398-b06677c8-db67-480d-95bd-393774a86905.jpeg)
+![hole-map-12](https://user-images.githubusercontent.com/84731828/160420405-a15da8d8-4ded-45f3-b1f8-beb5e8a45497.jpeg)
+![hole-map-13](https://user-images.githubusercontent.com/84731828/160420408-7010f56b-e697-4dcb-99d9-609e95d357cc.jpeg)
+![hole-map-14](https://user-images.githubusercontent.com/84731828/160420414-b0fd1197-c2e5-474d-8c1c-abb210dead58.jpeg)
+![hole-map-15](https://user-images.githubusercontent.com/84731828/160420417-9e431726-f22f-4488-b38e-38594161b8cf.jpeg)
+![hole-map-16](https://user-images.githubusercontent.com/84731828/160420421-562b72dc-d194-4917-88c8-1bd766f1bf5f.jpeg)
+![hole-map-17](https://user-images.githubusercontent.com/84731828/160420428-16f94c57-7cca-4177-b6a3-c37d5f20a89e.jpeg)
+![hole-map-18](https://user-images.githubusercontent.com/84731828/160420430-4450f3e4-1952-435c-8b51-1c961dd67d72.jpeg)
